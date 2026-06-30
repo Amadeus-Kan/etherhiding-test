@@ -1,7 +1,7 @@
 // hardhat.config.js (ESM 版本)
 import hardhatToolboxViem from "@nomicfoundation/hardhat-toolbox-viem";
 
-const PRIVATE_KEY = "4fa8bc0dd849e59e58df302f1da221aa3d3cf3f1b879fcd0baabed33ade1226b";
+const PRIVATE_KEY = "your private key here";
 
 export default {
     solidity: {
